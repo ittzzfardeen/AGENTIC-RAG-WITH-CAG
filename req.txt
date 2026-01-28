@@ -1,0 +1,11 @@
+langchain_groq
+langchain_community
+langgraph
+dotenv
+ipykernel
+Pinecone
+Langchain_pinecone
+langchain_astradb
+langchain_Chroma
+langchain_huggingface
+sentence-transformers
